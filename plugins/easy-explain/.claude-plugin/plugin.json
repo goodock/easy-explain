@@ -1,7 +1,7 @@
 {
   "name": "easy-explain",
-  "version": "1.0.0",
-  "description": "Claude가 14살도 이해할 수 있게 쉽고 짧게 설명하게 하는 출력 스타일. 코딩 지침을 유지하는 판과 유지하지 않는 판 두 가지를 제공합니다.",
+  "version": "1.1.0",
+  "description": "Claude가 14살도 이해할 수 있게 쉽고 짧게 설명하게 하는 출력 스타일. 문장으로 풀어 주는 서술형 판과 핵심만 정리하는 개조식 판을 제공합니다.",
   "author": {
     "name": "goodock",
     "url": "https://github.com/goodock"
@@ -13,6 +13,7 @@
     "쉬운설명",
     "output-style",
     "eli5",
-    "plain-language"
+    "plain-language",
+    "korean"
   ]
 }
