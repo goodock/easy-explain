@@ -1,0 +1,17 @@
+{
+  "name": "easy-explain",
+  "owner": {
+    "name": "goodock"
+  },
+  "metadata": {
+    "description": "쉽고 짧게 설명하는 출력 스타일 배포용 마켓플레이스",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "easy-explain",
+      "source": "./plugins/easy-explain",
+      "description": "Claude가 14살도 이해할 수 있게 쉽고 짧게 설명하게 하는 출력 스타일. 코딩 지침을 유지하는 판과 유지하지 않는 판을 제공합니다."
+    }
+  ]
+}
